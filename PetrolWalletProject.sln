@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolWalletProject", "PetrolWalletProject.csproj", "{BCC79577-74E5-45FC-9309-DB66A8FF31A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolWalletProject.Domain", "PetrolWalletProject.Domain\PetrolWalletProject.Domain.csproj", "{067726F8-C55D-4765-B9BF-0CA49D6E0C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolWalletProject.DataAccess", "PetrolWalletProject.DataAccess\PetrolWalletProject.DataAccess.csproj", "{62A48952-8BD2-4E94-B763-40285FE332F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolWalletProject.BusinessLogic", "PetrolWalletProject.BusinessLogic\PetrolWalletProject.BusinessLogic.csproj", "{AB107E44-ACB3-4088-8EB3-6D7CE9974A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC79577-74E5-45FC-9309-DB66A8FF31A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC79577-74E5-45FC-9309-DB66A8FF31A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC79577-74E5-45FC-9309-DB66A8FF31A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC79577-74E5-45FC-9309-DB66A8FF31A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067726F8-C55D-4765-B9BF-0CA49D6E0C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067726F8-C55D-4765-B9BF-0CA49D6E0C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067726F8-C55D-4765-B9BF-0CA49D6E0C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067726F8-C55D-4765-B9BF-0CA49D6E0C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A48952-8BD2-4E94-B763-40285FE332F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A48952-8BD2-4E94-B763-40285FE332F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A48952-8BD2-4E94-B763-40285FE332F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A48952-8BD2-4E94-B763-40285FE332F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB107E44-ACB3-4088-8EB3-6D7CE9974A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB107E44-ACB3-4088-8EB3-6D7CE9974A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB107E44-ACB3-4088-8EB3-6D7CE9974A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB107E44-ACB3-4088-8EB3-6D7CE9974A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1EFE9E7-4B34-49EB-9462-5EE65E3B5A62}
+	EndGlobalSection
+EndGlobal
